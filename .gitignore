@@ -5,3 +5,4 @@
 *.tfvars
 *.json
 .terraform/
+*.pem
