@@ -23,13 +23,16 @@ Note: You may encounter some errors or issues while completing this exercise. Pl
  git clone https://github.com/durrello/challenge-1.git
  
 #### step 2: run the project
-cd challenge-1
-terraform init 
-terraform apply
+###### cd challenge-1
+
+###### terraform init 
+
+###### terraform apply
 
 After it's done deploying, the example will output URLs or IPs to try out.
 
-To clean up and delete all resources after you're done, run terraform destroy
+To clean up and delete all resources after you're done, run 
+###### terraform destroy
 
 ### Issues faces and how I resolved them
 Missing service account credentials: Fixed by specifying the service account JSON file in the provider config.
