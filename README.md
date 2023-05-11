@@ -16,8 +16,12 @@ Note: You may encounter some errors or issues while completing this exercise. Pl
 ## Solution 
 ### prerequisite
 • You have git installed
+
 • You have terraform installed
+
 • You have a Google Cloud Platform (GCP) account
+
+• You have a service account json key
 
 #### step 1: clone the repo
  git clone https://github.com/durrello/challenge-1.git
