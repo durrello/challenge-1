@@ -46,3 +46,5 @@ Missing region: Specified "us-central1" as the default GCP region.
 Provider configuration errors - Fixes are:
 Specify required configuration (region, credentials, project ID, etc.)
 Enable necessary APIs
+
+testing ssh keyss
